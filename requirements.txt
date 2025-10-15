@@ -1,6 +1,6 @@
+# requirements.txt
 streamlit==1.38.0
-tensorflow-cpu==2.15.0
+tensorflow==2.14.0
 requests
 numpy
 Pillow
-
