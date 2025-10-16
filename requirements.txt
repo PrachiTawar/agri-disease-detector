@@ -1,5 +1,5 @@
 streamlit==1.38.0
-tensorflow-cpu==2.14.0
-numpy
-Pillow
-requests
+tensorflow==2.13.0
+numpy==1.23.5
+Pillow==10.0.0
+requests==2.31.0
